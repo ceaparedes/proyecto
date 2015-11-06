@@ -11,14 +11,14 @@ use Yii;
  * @property integer $AUD_NUMERO
  * @property string $REA_DESCRIPCION
  */
-class RECOMIENDACIONESAUDITORIA extends \yii\db\ActiveRecord
+class RECOMENDACIONESAUDITORIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc
      */
     public static function tableName()
     {
-        return 'RECOMIENDACIONES_AUDITORIA';
+        return 'RECOMENDACIONES_AUDITORIA';
     }
 
     /**
