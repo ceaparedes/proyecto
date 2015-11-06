@@ -8,7 +8,7 @@ use app\models\ADJUNTOSSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
-use app\views\ADJUNTOS
+use app\views\ADJUNTOS;
 
 /**
  * ADJUNTOSController implements the CRUD actions for ADJUNTOS model.
@@ -137,3 +137,4 @@ class ADJUNTOSController extends Controller
     }
 
 }
+?>
