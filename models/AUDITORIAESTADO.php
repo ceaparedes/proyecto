@@ -10,7 +10,7 @@ use Yii;
  * @property integer $AES_ID
  * @property string $AES_ESTADO
  */
-class AUDITORIA_ESTADO extends \yii\db\ActiveRecord
+class AUDITORIAESTADO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

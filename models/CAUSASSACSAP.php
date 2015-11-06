@@ -11,7 +11,7 @@ use Yii;
  * @property integer $SAC_ID
  * @property string $CAU_CAUSASIDENTIFICADAS
  */
-class CAUSAS_SAC_SAP extends \yii\db\ActiveRecord
+class CAUSASSACSAP extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

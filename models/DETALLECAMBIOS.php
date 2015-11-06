@@ -11,7 +11,7 @@ use Yii;
  * @property integer $SOL_ID
  * @property string $ACC_CAMBIOS
  */
-class DETALLE_CAMBIOS extends \yii\db\ActiveRecord
+class DETALLECAMBIOS extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc
