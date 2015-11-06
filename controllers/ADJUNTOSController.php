@@ -8,6 +8,7 @@ use app\models\ADJUNTOSSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use app\views\ADJUNTOS
 
 /**
  * ADJUNTOSController implements the CRUD actions for ADJUNTOS model.
@@ -118,4 +119,21 @@ class ADJUNTOSController extends Controller
             throw new NotFoundHttpException('The requested page does not exist.');
         }
     }
+
+    public function actionADJUNTOS()
+    {
+        $model = new app\models\ADJUNTOS();
+
+        if ($model->load(Yii::$app->request->post())) {
+            if ($model->validate()) {
+                // form inputs are valid, do something here
+                return;
+            }
+        }
+
+        return $this->render('ADJUNTOS', [
+            'model' => $model,
+        ]);
+    }
+
 }
