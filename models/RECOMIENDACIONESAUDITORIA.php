@@ -11,7 +11,7 @@ use Yii;
  * @property integer $AUD_NUMERO
  * @property string $REA_DESCRIPCION
  */
-class RECOMIENDACIONES_AUDITORIA extends \yii\db\ActiveRecord
+class RECOMIENDACIONESAUDITORIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

@@ -12,7 +12,7 @@ use Yii;
  * @property string $AAU_FECHAEJECUCION
  * @property string $AAU_FECHACIERRE
  */
-class PLAN_AUDITORIA extends \yii\db\ActiveRecord
+class PLANAUDITORIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

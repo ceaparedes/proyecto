@@ -13,7 +13,7 @@ use Yii;
  * @property integer $VER_NUMEROCOPIA
  * @property string $VER_URL
  */
-class VERSION_DOCUMENTO extends \yii\db\ActiveRecord
+class VERSIONDOCUMENTO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

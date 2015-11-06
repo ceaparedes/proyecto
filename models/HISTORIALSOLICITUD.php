@@ -14,7 +14,7 @@ use Yii;
  * @property string $HSO_FECHA
  * @property string $HSO_COMENTARIO
  */
-class HISTORIAL_SOLICITUD extends \yii\db\ActiveRecord
+class HISTORIALSOLICITUD extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

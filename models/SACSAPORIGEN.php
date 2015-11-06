@@ -10,7 +10,7 @@ use Yii;
  * @property integer $SSO_ID
  * @property string $SSO_ORIGEN
  */
-class SAC_SAP_ORIGEN extends \yii\db\ActiveRecord
+class SACSAPORIGEN extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

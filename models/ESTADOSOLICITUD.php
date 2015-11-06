@@ -11,7 +11,7 @@ use Yii;
  * @property string $ESO_ESTADO
  * @property string $ESO_FECHA
  */
-class ESTADO_SOLICITUD extends \yii\db\ActiveRecord
+class ESTADOSOLICITUD extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

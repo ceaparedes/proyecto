@@ -10,7 +10,7 @@ use Yii;
  * @property integer $OAC_ID
  * @property string $OAC_ORIGEN
  */
-class ORIGEN_ACCION extends \yii\db\ActiveRecord
+class ORIGENACCION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

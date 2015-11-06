@@ -11,7 +11,7 @@ use Yii;
  * @property string $TDA_ACCION
  * @property string $TDA_DESCRIPCION
  */
-class TIPO_DE_ACCION extends \yii\db\ActiveRecord
+class TIPODEACCION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

@@ -14,7 +14,7 @@ use Yii;
  * @property string $SSD_FECHAINICIO
  * @property string $SSD_FECHATERMINO
  */
-class SOLUCION_SOL_DOCUMENTO extends \yii\db\ActiveRecord
+class SOLUCIONSOLDOCUMENTO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

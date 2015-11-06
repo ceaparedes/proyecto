@@ -18,7 +18,7 @@ use Yii;
  * @property string $REC_MOTIVO
  * @property string $REC_VISTOBUENO
  */
-class RECLAMO_SUGERENCIA extends \yii\db\ActiveRecord
+class RECLAMOSUGERENCIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

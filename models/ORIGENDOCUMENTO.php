@@ -10,7 +10,7 @@ use Yii;
  * @property integer $ODO_ID
  * @property string $ODO_ORIGEN
  */
-class ORIGEN_DOCUMENTO extends \yii\db\ActiveRecord
+class ORIGENDOCUMENTO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

@@ -10,7 +10,7 @@ use Yii;
  * @property integer $SST_ID
  * @property string $SST_TIPO
  */
-class SAC_SAP_TIPO extends \yii\db\ActiveRecord
+class SACSAPTIPO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

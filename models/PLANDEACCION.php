@@ -17,7 +17,7 @@ use Yii;
  * @property string $PDA_FECHAIMPLEMENTACION
  * @property string $PDA_OBSERVACIONES
  */
-class PLAN_DE_ACCION extends \yii\db\ActiveRecord
+class PLANDEACCION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

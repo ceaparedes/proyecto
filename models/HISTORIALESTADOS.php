@@ -14,7 +14,7 @@ use Yii;
  * @property string $HES_FECHAYHORA
  * @property string $HES_COMENTARIO
  */
-class HISTORIAL_ESTADOS extends \yii\db\ActiveRecord
+class HISTORIALESTADOS extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

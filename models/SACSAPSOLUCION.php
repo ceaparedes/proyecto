@@ -12,7 +12,7 @@ use Yii;
  * @property string $SSS_SOLUCION
  * @property string $SSS_FECHA
  */
-class SAC_SAP_SOLUCION extends \yii\db\ActiveRecord
+class SACSAPSOLUCION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

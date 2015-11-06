@@ -10,7 +10,7 @@ use Yii;
  * @property integer $UOD_ID
  * @property string $UOD_UNIDAD
  */
-class UNIDAD_ORIGEN_DOCUMENTO extends \yii\db\ActiveRecord
+class UNIDADORIGENDOCUMENTO extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

@@ -15,7 +15,7 @@ use Yii;
  * @property integer $SSO_ID
  * @property string $SAC_FECHA
  */
-class SAC_SAP extends \yii\db\ActiveRecord
+class SACSAP extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

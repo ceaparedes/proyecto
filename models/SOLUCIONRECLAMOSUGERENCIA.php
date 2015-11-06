@@ -18,7 +18,7 @@ use Yii;
  * @property string $SOR_FECHA
  * @property string $SOR_RESULTADOS
  */
-class SOLUCION_RECLAMO_SUGERENCIA extends \yii\db\ActiveRecord
+class SOLUCIONRECLAMOSUGERENCIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

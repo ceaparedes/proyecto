@@ -10,7 +10,7 @@ use Yii;
  * @property integer $TIR_ID
  * @property string $TIR_DESCRIPCION
  */
-class TIPO_RECLAMO_SUGERENCIA extends \yii\db\ActiveRecord
+class TIPORECLAMOSUGERENCIA extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

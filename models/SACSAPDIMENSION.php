@@ -11,7 +11,7 @@ use Yii;
  * @property integer $DIM_ID
  * @property string $SSD_DIMENSION
  */
-class SAC_SAP_DIMENSION extends \yii\db\ActiveRecord
+class SACSAPDIMENSION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc

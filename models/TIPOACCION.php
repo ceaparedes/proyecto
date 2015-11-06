@@ -11,7 +11,7 @@ use Yii;
  * @property integer $TAC_ID
  * @property string $TAC_ACCION
  */
-class TIPO_ACCION extends \yii\db\ActiveRecord
+class TIPOACCION extends \yii\db\ActiveRecord
 {
     /**
      * @inheritdoc
